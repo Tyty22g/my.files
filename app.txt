@@ -1,6 +1,6 @@
 {
-  "latestVersionCode": 12,
-  "latestVersionName": "2.2",
+  "latestVersionCode": 11,
+  "latestVersionName": "2.1",
   "forceUpdate": true,
   "updateUrl": "https://play.google.com/store/apps/details?id=com.reds.player",
   "message": "عزيزي المستخدم، يوجد تحديث جديد مهم للتطبيق. يجب تحديث التطبيق الى اخر اصدار للتمكن من مشاهدة القنوات."
